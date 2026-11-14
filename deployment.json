@@ -1,16 +1,16 @@
 {
   "sourceRepository": "https://github.com/aaronyangjianq/mes-system-prototype",
-  "sourceCommit": "c3421abdbb0d32c6f6a89aa690f3475a881bfc03",
+  "sourceCommit": "623794eea45016968ee0ced55b66df1dfcc86825",
   "sourceBranch": "feature/unified-mock-v2-20261107",
-  "priorPagesCommit": "b013d9cfe292b62ee90b65e9f84eb2f9ddc63fd5",
+  "priorPagesCommit": "6e61ce2167485371872c8eda18a5d2ccf0ede579",
   "assets": [
     {
-      "file": "index-CP6yEXew.js",
-      "sha256": "4CC1DCDFB156561D5E9095A9C0AB6EFEF170D5E08F12E9088D1BCCA051C6003A"
+      "file": "index-CI3K492o.js",
+      "sha256": "b552a210e9a95ed4b8b53eb12e63e9c58d12d5f4c48ddc45483e3fa142d07f4a"
     },
     {
-      "file": "index-DWrwYE87.css",
-      "sha256": "55C325E3373D9DF73CE8735B9924046E0BD99C5D494087E031A1849005213343"
+      "file": "index-DIoP7S8k.css",
+      "sha256": "df58bf871889ec4e6d4b434aba0b0fd9967b485110eac9b4101b5c44e351fba8"
     }
   ]
 }
